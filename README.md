@@ -1,4 +1,3 @@
-# Random-Forest-and-Regression-Analysis-for-Online-Payment-Fraud-Detection
 # Çevrimiçi Ödeme Dolandırıcılığı Tespiti: Random Forest ve Regresyon Analizi
 
 ## Proje Açıklaması
