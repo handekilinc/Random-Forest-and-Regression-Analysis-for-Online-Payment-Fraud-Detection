@@ -48,6 +48,27 @@ Random Forest, birçok karar ağacının birleşiminden oluşan bir topluluk (en
 
 Gelecek hedefler arasında, Random Forest ve regresyon analizi algoritmalarını birleştirerek bir meta model oluşturmak yer almaktadır. Bu meta model, her iki yöntemin avantajlarını bir araya getirerek dolandırıcılık tespitinde daha iyi sonuçlar elde etmeyi amaçlayacaktır. Ayrıca, modelin performansını artırmak için farklı parametre ayarları ve özellik mühendisliği (feature engineering) teknikleri kullanılabilir.
 
+## Uygulama Senaryoları
+
+- **Finansal Kurumlar**: Bankalar ve ödeme sistemleri, dolandırıcılık tespit sistemlerini geliştirerek müşterilerini koruma altına alabilir.
+- **E-Ticaret**: E-ticaret platformları, dolandırıcılık riskini azaltmak için bu tür modelleri kullanabilir.
+- **Sigorta Şirketleri**: Sigorta şirketleri, dolandırıcılığı tespit etmek için bu tür analitik çözümleri uygulayabilir.
+
 ## Sonuç
 
 Bu proje, çevrimiçi ödeme sistemlerinin güvenliğini artırmak amacıyla önemli bir adım teşkil etmektedir. Kullanılan yöntemler ve elde edilen bulgular, dolandırıcılığı önlemeye yönelik stratejilerin geliştirilmesine katkı sağlayabilir. Elde edilen sonuçlar, finansal sistemlerin güvenliğini artırmak ve kullanıcıların korunmasına yönelik etkili çözümler geliştirmek için değerlendirilecektir.
+
+## Katkıda Bulunma
+
+Bu projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya sorunlarınızı belirtmek için bir issue açın. Her türlü katkı ve geri bildirim değerlidir!
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
+## İletişim Bilgileri
+
+Sorularınız veya işbirlikleri için benimle iletişime geçebilirsiniz:
+
+- E-posta: [handekilinc3510@gmail.com]
+- GitHub: [handekilinc](https://github.com/handekilinc)
