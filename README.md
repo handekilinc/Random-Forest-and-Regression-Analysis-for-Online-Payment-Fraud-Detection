@@ -1,8 +1,16 @@
 # Çevrimiçi Ödeme Dolandırıcılığı Tespiti: Random Forest ve Regresyon Analizi
 
+![Fraud Detection]([images/fraud_detection.png](https://images.squarespace-cdn.com/content/v1/5d242dd8a10ed400017e7a33/1582505122015-PXLJEO8XGS7U06D2YCL7/CreditCardFraudDetection.png?format=2500w))
+
 ## Proje Açıklaması
 
 Bu proje, çevrimiçi ödeme dolandırıcılığını tespit etmek için geliştirilen bir makine öğrenimi modelini içermektedir. Çevrimiçi ödemeler, hem bireysel kullanıcılar hem de işletmeler için önemli bir risk taşımaktadır. Dolandırıcılık faaliyetlerinin artmasıyla birlikte, etkili tespit yöntemlerinin geliştirilmesi kritik hale gelmiştir. Bu çalışma, dolandırıcılık tespitine yönelik olarak Random Forest ve regresyon analizi algoritmalarının entegrasyonunu hedeflemektedir.
+
+## Kullanılan Teknolojiler
+- Python
+- Scikit-Learn
+- Pandas
+- Matplotlib
 
 ## Kullanılan Algoritmalar
 
