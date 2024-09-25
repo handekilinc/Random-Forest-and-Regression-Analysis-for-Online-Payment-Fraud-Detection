@@ -1,6 +1,6 @@
 # Çevrimiçi Ödeme Dolandırıcılığı Tespiti: Random Forest ve Regresyon Analizi
 
-[Fraud Detection]([[images/fraud_detection.png](https://images.squarespace-cdn.com/content/v1/5d242dd8a10ed400017e7a33/1582505122015-PXLJEO8XGS7U06D2YCL7/CreditCardFraudDetection.png?format=2500w)](https://images.squarespace-cdn.com/content/v1/5d242dd8a10ed400017e7a33/1582505122015-PXLJEO8XGS7U06D2YCL7/CreditCardFraudDetection.png))
+![Credit Card Fraud Detection](https://images.squarespace-cdn.com/content/v1/5d242dd8a10ed400017e7a33/1582505122015-PXLJEO8XGS7U06D2YCL7/CreditCardFraud)
 
 ## Proje Açıklaması
 
